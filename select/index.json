@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "打ち砕ーくっ！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2026-02-13T15:52:32.904645Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "打ち砕ーくっ!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_打ち砕ーくっ!_T-Pistonz+KMC.txt"
+    }
+  ]
+}
